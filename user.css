@@ -1,0 +1,76 @@
+/* 
+ * Foreground: 1d202e
+ * Background: 12131a
+*/
+
+* {
+    font-family: SF Pro Text;
+}
+
+.main-actionBarBackground-background, .main-entityHeader-backgroundColor {
+    background-color: #12131a !important;
+    background-image: none;
+}
+
+.main-entityHeader-overlay {
+    display: none;
+}
+
+.main-navBar-navBar {
+    background-color: #12131a;
+}
+
+.main-home-homeHeader {
+    background: #12131a !important;
+}
+
+div#main {
+    background: #12131a;
+}
+
+.main-topBar-background {
+    background-color: #12131a !important;
+}
+
+.main-rootlist-rootlistDividerContainer {
+    display: none;
+}
+
+.main-nowPlayingBar-container {
+    background: #12131a;
+    border: none;
+}
+
+.main-card-card {
+    background: #1d202e;
+}
+
+.view-homeShortcutsGrid-shortcut {
+    background: #1d202e;
+}
+
+.main-navBar-navBarLinkActive {
+    background: #1d202e;
+}
+
+.main-topBar-overlay {
+    display: none;
+}
+
+.main-userWidget-box {
+    background-color: #1d202e;
+}
+
+.main-connectBar-connectBar {
+    color: white !important;
+    background-color: #1d202e !important;
+}
+
+.main-playButton-PlayButton.main-playButton-primary {
+    background-color: #1d202e;
+}
+
+.view-homeShortcutsGrid-PlayButtonContainer {
+    -webkit-box-shadow: 0px 0px 0px 2px #fff;
+    box-shadow: 0px 0px 0px 2px #fff;
+}
